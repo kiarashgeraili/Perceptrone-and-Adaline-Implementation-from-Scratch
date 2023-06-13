@@ -17,6 +17,6 @@ The major goal of the model is to learn the pattern of a set of main characters 
 .#....#
 ######.
 
-(If the above characters does not seem rational to you, copy on a txt file and split each seven characters with \n-enter)
+(If the above characters does not seem rational to you, copy on a txt file and split each seven characters with \n-enter or see the ReadMe on code tab)
 
 Which represents character “B”. For the test set we have the same but with some noises, thus, each main characters represented by {.,#,@,O}. The {O, @} in this set represents the noises.
